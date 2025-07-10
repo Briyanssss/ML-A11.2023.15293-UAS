@@ -60,8 +60,8 @@ Proyek ini bertujuan untuk membangun model klasifikasi yang dapat memprediksi po
 1.  **Clone Repositori**
 
     ```bash
-    git clone [https://github.com/username-anda/ML-NIM-UAS.git](https://github.com/username-anda/ML-NIM-UAS.git)
-    cd ML-NIM-UAS
+   git clone https://github.com/Briyanssss/ML-A11.2023.15293-UAS.git
+   cd ML-A11.2023.15293-UAS
     ```
 
 2.  **Instal Library yang Dibutuhkan**
